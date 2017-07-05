@@ -1,0 +1,1 @@
+let sixToast = (num) => (num<=6)?(6-num):(num-6);
